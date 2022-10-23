@@ -1,0 +1,5 @@
+{
+  "port": 5555,
+  "jwtSecret": "ValeriaDM",
+  "baseURL": "http://localhost:5555"
+}
